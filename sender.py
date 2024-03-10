@@ -9,7 +9,7 @@ import sys
 
 from PyQt5.uic import loadUiType
 
-ui = loadUiType('senderU.ui')
+ui = loadUiType('senderDesktop.ui')
 
 email_sender = 'berk579.32@gmail.com'
 email_password = password
